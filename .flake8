@@ -1,0 +1,8 @@
+[flake8]
+exclude =
+    .git
+    .nox
+    .pytest_cache
+    .venv
+    noxfile.py
+    __pycache__
